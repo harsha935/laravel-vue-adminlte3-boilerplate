@@ -1,0 +1,25 @@
+
+.input-group-text {
+    background-color: #fff;
+    border-left: 0;
+    padding-top: 10px;
+}
+
+
+.card-body.login-card-body button.btn.btn-primary.btn-block.btn-flat {
+    border-radius: 3px;
+}
+
+.card-body.login-card-body .form-control:focus {
+    outline: none;
+    box-shadow: none;
+}
+.form-group.is-invalid  .invalid-feedback{
+    display: block;
+ }
+ .form-group.is-invalid .select2-container .select2-selection--single {
+     border: 1px solid #e3342e !important;
+ }
+ .form-group.is-invalid .select2-container .select2-selection--multiple {
+     border: 1px solid #e3342e !important;
+ }
